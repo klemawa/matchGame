@@ -1,0 +1,16 @@
+C:\Users\Klementyna\source\repos\matchGame\bin\Debug\matchGame.exe.config
+C:\Users\Klementyna\source\repos\matchGame\bin\Debug\matchGame.exe
+C:\Users\Klementyna\source\repos\matchGame\bin\Debug\matchGame.pdb
+C:\Users\Klementyna\source\repos\matchGame\obj\Debug\matchGame.csproj.AssemblyReference.cache
+C:\Users\Klementyna\source\repos\matchGame\obj\Debug\matchGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klementyna\source\repos\matchGame\obj\Debug\MainWindow.g.cs
+C:\Users\Klementyna\source\repos\matchGame\obj\Debug\App.g.cs
+C:\Users\Klementyna\source\repos\matchGame\obj\Debug\matchGame_MarkupCompile.cache
+C:\Users\Klementyna\source\repos\matchGame\obj\Debug\matchGame_MarkupCompile.lref
+C:\Users\Klementyna\source\repos\matchGame\obj\Debug\MainWindow.baml
+C:\Users\Klementyna\source\repos\matchGame\obj\Debug\matchGame.g.resources
+C:\Users\Klementyna\source\repos\matchGame\obj\Debug\matchGame.Properties.Resources.resources
+C:\Users\Klementyna\source\repos\matchGame\obj\Debug\matchGame.csproj.GenerateResource.cache
+C:\Users\Klementyna\source\repos\matchGame\obj\Debug\matchGame.csproj.CoreCompileInputs.cache
+C:\Users\Klementyna\source\repos\matchGame\obj\Debug\matchGame.exe
+C:\Users\Klementyna\source\repos\matchGame\obj\Debug\matchGame.pdb
